@@ -1,0 +1,1 @@
+- Start Server using python using `python -m SimpleHTTPServer 8888 &`
